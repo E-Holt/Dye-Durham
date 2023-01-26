@@ -1,4 +1,4 @@
-## Dye & Durham Codeing Assessment
+## Dye & Durham Coding Assessment
 
 Thank you for viewing this coding assessment. I have written this in JavaScript using Node.js and Jest for testing. 
 
