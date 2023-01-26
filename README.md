@@ -5,7 +5,7 @@ Thank you for viewing this coding assessment. I have written this in JavaScript 
 <br/>
 
 ### Running the Sorting Program
-To run the script you must have node intalled, as long as the unsorted-names-list.txt is added to this repository the name-sorter.js file it should run with the following command from the terminal when in the repository:
+To run the script you must have node installed, as long as the unsorted-names-list.txt is added to this repository the name-sorter.js file it should run with the following command from the terminal when in the repository:
 ```
   node name-sorter.js  
 ```
