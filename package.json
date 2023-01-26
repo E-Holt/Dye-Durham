@@ -1,0 +1,14 @@
+{
+  "name": "dyedurham",
+  "version": "1.0.0",
+  "description": "",
+  "main": "name-sorter.js",
+  "scripts":{
+    "test":"jest",
+    "start":"node sorce/name-sorter.js"
+    },
+  
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
